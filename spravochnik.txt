@@ -1,0 +1,5 @@
+ sudo apt-get install git
+
+ git config --global user.name Timur
+ git config --global user.email Abdymazhinov.timur@gmail.com
+ 
